@@ -1,7 +1,7 @@
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 <meta name="og:title" content="Had2Apps ゲーム利用規約">
 <meta name="og:description" content="「Had2Apps」および、「はどはど」の制作ゲームの利用規約">
-<meta property="og:image" content="samne.png">
+<meta name="og:image" content="samne.png">
 
 # 「Had2Apps」および、「はどはど」の制作ゲームの利用規約
 
